@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>iso-4217-currency-codes-angular</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <name>ISO 4217 for Angular JS</name>
     <description>WebJar for ISO 4217 for Angular JS</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/iso-4217-currency-codes-angular</url>
         <connection>scm:git:https://github.com/webjars/iso-4217-currency-codes-angular.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/iso-4217-currency-codes-angular.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>iso-4217-currency-codes-angular-1.0.1</tag>
     </scm>
     
     <dependencies>
